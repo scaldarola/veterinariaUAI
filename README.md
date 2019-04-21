@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-﻿veterinariaUAI
-=======
-# veterinariaUAI
->>>>>>> 6e9a44d9a34efb1af779bfd10f145dfe65366140
+                            Veterinaria UAI
+                            
+                  Proyecto de Lenguajes de Programación Para la Administración
+                  4ª Año de Ingeniería en Sistemas - Universidad Abierta Interamericana
+                            Prof. Victor Contreras
+                            Alumno: Sebastián Caldarola
