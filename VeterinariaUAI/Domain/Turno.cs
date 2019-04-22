@@ -6,6 +6,15 @@ namespace VeterinariaUAI.Domain
         public Turno()
         {
         }
+        
+        public Turno(Sala sala, Veterinario vet, Paciente pac, DateTime fechaHora, double seña)
+        {
+            this.Paciente = pac;
+            this.Veterinario = vet;
+            this.Sala = sala;
+            this.FechaHora = fechaHora;
+            this.Seña = seña;
+        }
 
         public Sala Sala
         {
