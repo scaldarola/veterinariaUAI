@@ -6,5 +6,16 @@ namespace VeterinariaUAI.Domain
         public Sala()
         {
         }
+        
+        public Sala(string nombre)
+        {
+            this.Nombre = nombre;
+        }
+
+        public string Nombre
+        {
+            get;
+            private set;
+        }
     }
 }
