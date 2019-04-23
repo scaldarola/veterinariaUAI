@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.ItemProperties.VeterinariaUAI FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="VeterinariaUAI/Domain/MyContext.cs">
     <Files>
-      <File FileName="VeterinariaUAI/Domain/Veterinario.cs" Line="1" Column="1" />
-      <File FileName="VeterinariaUAI/Domain/Sala.cs" Line="1" Column="1" />
+      <File FileName="VeterinariaUAI/Domain/Veterinario.cs" Line="42" Column="2" />
+      <File FileName="VeterinariaUAI/Domain/Sala.cs" Line="21" Column="2" />
       <File FileName="VeterinariaUAI/Domain/Paciente.cs" Line="1" Column="1" />
       <File FileName="VeterinariaUAI/Domain/Dueño.cs" Line="1" Column="1" />
       <File FileName="VeterinariaUAI/Domain/Turno.cs" Line="1" Column="1" />
-      <File FileName="VeterinariaUAI/Domain/MyContext.cs" Line="5" Column="10" />
+      <File FileName="VeterinariaUAI/Domain/MyContext.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

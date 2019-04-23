@@ -6,7 +6,7 @@ namespace VeterinariaUAI.Domain
         public Veterinario()
         {
         }
-        
+
         public Veterinario(string nombre, string apellido, string dni, string matricula)
         {
             this.Nombre = nombre;
