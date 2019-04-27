@@ -9,4 +9,12 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\images\pero.jpg" />
+    <Content Remove="wwwroot\images\tenor.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\images\pero.jpg" />
+    <None Include="wwwroot\images\tenor.gif" />
+  </ItemGroup>
 </Project>

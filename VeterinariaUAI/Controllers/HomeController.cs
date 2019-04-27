@@ -12,6 +12,7 @@ namespace VeterinariaUAI.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["Home"] = "Your Home page.";
             return View();
         }
 
