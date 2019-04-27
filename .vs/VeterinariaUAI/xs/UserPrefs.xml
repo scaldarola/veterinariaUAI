@@ -1,24 +1,25 @@
 ﻿<Properties StartupConfiguration="{7417E58B-D5AD-4306-9ECC-BD5F2C586F94}|Default">
   <MonoDevelop.Ide.ItemProperties.WebSite PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Domain FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VeterinariaUAI/Controllers/HomeController.cs">
     <Files>
-      <File FileName="VeterinariaUAI/Domain/Veterinario.cs" Line="42" Column="2" />
-      <File FileName="VeterinariaUAI/Domain/Sala.cs" Line="21" Column="2" />
-      <File FileName="VeterinariaUAI/Domain/Paciente.cs" Line="1" Column="1" />
-      <File FileName="VeterinariaUAI/Domain/Dueño.cs" Line="1" Column="1" />
-      <File FileName="VeterinariaUAI/Domain/Turno.cs" Line="1" Column="1" />
-      <File FileName="VeterinariaUAI/Domain/MyContext.cs" Line="15" Column="1" />
-      <File FileName="VeterinariaUAI/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="VeterinariaUAI/Program.cs" Line="17" Column="1" />
-      <File FileName="Domain/Class1.cs" Line="1" Column="1" />
+      <File FileName="VeterinariaUAI/Program.cs" Line="17" Column="49" />
+      <File FileName="VeterinariaUAI/Controllers/HomeController.cs" Line="15" Column="23" />
+      <File FileName="VeterinariaUAI/Views/Home/Index.cshtml" Line="2" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VeterinariaUAI" expanded="True">
-            <Node name="Domain" expanded="True" selected="True" />
-            <Node name="WebSite" expanded="True" />
+            <Node name="Domain" expanded="True" />
+            <Node name="WebSite" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
