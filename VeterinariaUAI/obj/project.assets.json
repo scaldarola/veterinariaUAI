@@ -11797,9 +11797,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/scaldarola/workspace/sebastian/UAI/VeterinariaUAI/VeterinariaUAI/VeterinariaUAI.csproj",
-      "projectName": "VeterinariaUAI",
-      "projectPath": "/Users/scaldarola/workspace/sebastian/UAI/VeterinariaUAI/VeterinariaUAI/VeterinariaUAI.csproj",
+      "projectUniqueName": "/Users/scaldarola/workspace/sebastian/UAI/VeterinariaUAI/VeterinariaUAI/WebSite.csproj",
+      "projectName": "WebSite",
+      "projectPath": "/Users/scaldarola/workspace/sebastian/UAI/VeterinariaUAI/VeterinariaUAI/WebSite.csproj",
       "packagesPath": "/Users/scaldarola/.nuget/packages/",
       "outputPath": "/Users/scaldarola/workspace/sebastian/UAI/VeterinariaUAI/VeterinariaUAI/obj/",
       "projectStyle": "PackageReference",
