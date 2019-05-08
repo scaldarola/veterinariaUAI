@@ -3,8 +3,9 @@ namespace VeterinariaUAI.Domain
 {
     public class Paciente
     {
-        public Paciente()
+        public Paciente(nombre)
         {
+	   this.Nombre = nombre;
         }
         
         public Paciente(string nombre, DateTime fechanac, string tipo, Dueño dueño)
