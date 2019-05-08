@@ -23,12 +23,31 @@ namespace VeterinariaUAI.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
 
             return View();
         }
+
+        [HttpPost]
+        [ActionName: Contact]
+        public IActionResult Contact_Post()
+        {
+            ViewData["Message"] = "Your contact page.";
+            ViewBag.Name = Request.Form["name"];
+            RedirectToPage("/Home/SuccessContact");
+            return View();
+        }
+
+        public IActionResult SuccessContact()
+        {
+            ViewData["Message"] = "Contact Successful!";
+            ViewBag.Name = Request.Form["name"];
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {

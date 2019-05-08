@@ -12,9 +12,20 @@
   <ItemGroup>
     <Content Remove="wwwroot\images\pero.jpg" />
     <Content Remove="wwwroot\images\tenor.gif" />
+    <Content Remove="wwwroot\images\perro.jpg" />
+    <Content Remove="wwwroot\images\obamal.png" />
+    <Content Remove="wwwroot\images\fal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Home\SuccessContact.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\images\pero.jpg" />
     <None Include="wwwroot\images\tenor.gif" />
+    <None Include="wwwroot\images\perro.jpg" />
+    <None Include="wwwroot\images\fal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\" />
   </ItemGroup>
 </Project>
